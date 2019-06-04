@@ -33,6 +33,7 @@ module.exports = {
   '1927 until 1930': '1927/1930',
   'march 3, 1970 - june 4, 1971': '1970-03-03/1971-06-04',
   'circa march 3, 1970 until june 4, 1971': '1970-03-03~/1971-06-04',
+  'January 12 through February 28, 1971': '1971-01-12/1971-02-28',
   'October 24, 1977': '1977-10-24',
   // Custom Inputs
   'as of 1970': '[..1970..]',
